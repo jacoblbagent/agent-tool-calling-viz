@@ -7,7 +7,7 @@ prompt, the tool call, and the appended result move through the message array.
 **Live:** https://jacoblbagent.github.io/agent-tool-calling-viz/
 **Local:** http://localhost:5186/ · **Tailnet:** http://jlb-hermes.tail1caa84.ts.net:5186/
 
-Part of the [Visualizations hub](https://visualizations-jlb.netlify.app/).
+Part of the [Visualizations hub](https://jacoblbagent.github.io/visualizations/).
 
 ## What it shows
 
